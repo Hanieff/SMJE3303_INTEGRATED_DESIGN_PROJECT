@@ -1,4 +1,4 @@
 # SMJE3303_INTEGRATED_DESIGN_PROJECT
 COVID19 SELF HANDLING UV LIGHT SANITIZER ROBOT
 
-[![image](https://github.com/Hanieff/SMJE3303_INTEGRATED_DESIGN_PROJECT/Poster.jpg)
+[![image](https://github.com/Hanieff/SMJE3303_INTEGRATED_DESIGN_PROJECT/blob/main/Poster.jpg)]
